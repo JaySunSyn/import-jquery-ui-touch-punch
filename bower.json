@@ -1,0 +1,27 @@
+{
+  "name": "import-jquery-ui-touch-punch",
+  "version": "1.0.0",
+  "authors": [
+    "Jalal Fathi <jfathi.mail@gmail.com> (http://jalal.io)"
+  ],
+  "description": "The import element of the jquery-ui-touch-punch library.",
+  "keywords": [
+    "web-component",
+    "web-components",
+    "polymer",
+    "jquery-ui-touch-punch",
+    "import"
+  ],
+  "main": "import-pubnub.html",
+  "license": "http://polymer.github.io/LICENSE.txt",
+  "homepage": "https://github.com/JaySunSyn/import-pubnub.git",
+  "ignore": [
+    "/.*",
+    "/test/",
+    "/demo/"
+  ],
+  "dependencies": {
+    "jquery-ui-touch-punch": "*"
+  },
+  "devDependencies": {}
+}
